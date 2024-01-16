@@ -19,10 +19,10 @@
 }
 
 .App {
-  margin: 2% 6% 0 0;
+  margin: 2% 8% 0 4%;
   padding: 15px;
   display: grid;
-  grid-template-columns: 23% 23% 23% 23%;
+  grid-template-columns: 26% 26% 26% 26%;
   grid-gap: 15px;
   gap: 15px;
 }
